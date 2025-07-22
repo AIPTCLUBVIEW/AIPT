@@ -113,7 +113,7 @@
             const email = document.getElementById('adminEmail').value;
             const password = document.getElementById('adminPassword').value;
 
-            if (email === 'kottevyshu@gmail.com' && password === '1234567890') {
+            if (email === 'aipt2025@gmail.com' && password === 'association@2025') {
                 isAdmin = true;
                 alert('Admin login successful!');
                 hideModal('adminModal');
